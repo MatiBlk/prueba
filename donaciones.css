@@ -1,0 +1,19 @@
+.nav-link {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  .nav-link {
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  body{
+    background-image: url("fondoxd.png");
+  background-repeat: no-repeat;
+  background-size: cover;;
+  }

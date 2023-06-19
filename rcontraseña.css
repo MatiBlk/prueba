@@ -1,0 +1,16 @@
+body{
+    background-image: url(mascota.png)  ;
+}
+
+.btn-purple {
+    background-color: purple;
+    color: white;
+  }
+
+
+ .bg {
+    background-image: url(sisis.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
